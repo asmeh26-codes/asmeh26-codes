@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Asma 👋
 
-<!--
-**asmeh26-codes/asmeh26-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BS Artificial Intelligence Student
 
-Here are some ideas to get you started:
+💻 Learning C++ and Data Structures
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤖 Interested in Artificial Intelligence and Machine Learning
+
+🐍 Exploring Python and programming
+
+🌱 Learning and improving my skills every day.
+
+## Skills
+- C++
+- Python
+- Data Structures
+- Artificial Intelligence
+- Machine Learning
+
+
